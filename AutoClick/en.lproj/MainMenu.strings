@@ -1,0 +1,48 @@
+
+/* Class = "NSMenuItem"; title = "AutoClick"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "AutoClick";
+
+/* Class = "NSMenuItem"; title = "Quit AutoClick"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit AutoClick";
+
+/* Class = "NSMenuItem"; title = "About AutoClick"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About AutoClick";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSTextFieldCell"; title = "sec/click"; ObjectID = "Dkh-0E-IJO"; */
+"Dkh-0E-IJO.title" = "sec/click";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Hide AutoClick"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide AutoClick";
+
+/* Class = "NSWindow"; title = "AutoClick"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "AutoClick";
+
+/* Class = "NSTextFieldCell"; title = "⌥R to record mouse action"; ObjectID = "TpR-l3-1iu"; */
+"TpR-l3-1iu.title" = "⌥R to record mouse action";
+
+/* Class = "NSTextFieldCell"; title = "⌥S to start/stop play action"; ObjectID = "UxV-rO-9bl"; */
+"UxV-rO-9bl.title" = "⌥S to start/stop play action";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Interval"; ObjectID = "heR-NN-m0W"; */
+"heR-NN-m0W.placeholderString" = "Interval";
+
+/* Class = "NSTextFieldCell"; title = "0.5"; ObjectID = "heR-NN-m0W"; */
+"heR-NN-m0W.title" = "0.5";
+
+/* Class = "NSMenu"; title = "AutoClick"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "AutoClick";
+
+/* Class = "NSMenuItem"; title = "Feedback"; ObjectID = "vRu-s2-yL7"; */
+"vRu-s2-yL7.title" = "Feedback";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
