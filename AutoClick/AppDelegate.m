@@ -112,10 +112,10 @@
     
     DDHotKeyCenter *c = [DDHotKeyCenter sharedHotKeyCenter];
     if (![c registerHotKeyWithKeyCode:kVK_ANSI_R modifierFlags:NSAlternateKeyMask target:self action:@selector(recordButtonClicked) object:nil]) {
-        NSAlert *alertDefult = [[NSAlert alloc]init];        // 创建一个alert
-        [alertDefult setMessageText:@"Error!"];      // 设置信息标题
-        [alertDefult setInformativeText:@"Unable to register option+r"];  // 设置信息内容
-        [alertDefult addButtonWithTitle:@"OK!"];             // 添加第一个按钮以及按钮上显示的文字
+        NSAlert *alertDefult = [[NSAlert alloc]init];
+        [alertDefult setMessageText:@"Error!"];
+        [alertDefult setInformativeText:@"Unable to register option+r"];
+        [alertDefult addButtonWithTitle:@"OK!"];
     } else {
         
         
@@ -126,10 +126,10 @@
     
     DDHotKeyCenter *c = [DDHotKeyCenter sharedHotKeyCenter];
     if (![c registerHotKeyWithKeyCode:kVK_ANSI_S modifierFlags:NSAlternateKeyMask target:self action:@selector(hotkeyWithEventPlay:) object:nil]) {
-        NSAlert *alertDefult = [[NSAlert alloc]init];        // 创建一个alert
-        [alertDefult setMessageText:@"Error!"];      // 设置信息标题
-        [alertDefult setInformativeText:@"Unable to register option+s"];  // 设置信息内容
-        [alertDefult addButtonWithTitle:@"OK!"];             // 添加第一个按钮以及按钮上显示的文字
+        NSAlert *alertDefult = [[NSAlert alloc]init];
+        [alertDefult setMessageText:@"Error!"];
+        [alertDefult setInformativeText:@"Unable to register option+s"];
+        [alertDefult addButtonWithTitle:@"OK!"];
     } else {
         
         
