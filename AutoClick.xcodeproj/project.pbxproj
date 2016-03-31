@@ -19,7 +19,6 @@
 		0E4B36D21ABBB0760052CD75 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E4B36D11ABBB0760052CD75 /* Images.xcassets */; };
 		0E4B37181ABBDA900052CD75 /* ClickPositions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E4B37171ABBDA900052CD75 /* ClickPositions.m */; };
 		0E9E964B1ABEBDEE00A5C0B2 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E9E964A1ABEBDEE00A5C0B2 /* Carbon.framework */; };
-		1021E7941CACD3CF00B82EF4 /* AutoClick.app in Resources */ = {isa = PBXBuildFile; fileRef = 1021E7931CACD3CF00B82EF4 /* AutoClick.app */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		0E4B37161ABBDA900052CD75 /* ClickPositions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClickPositions.h; sourceTree = "<group>"; };
 		0E4B37171ABBDA900052CD75 /* ClickPositions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClickPositions.m; sourceTree = "<group>"; };
 		0E9E964A1ABEBDEE00A5C0B2 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = System/Library/Frameworks/Carbon.framework; sourceTree = SDKROOT; };
-		1021E7931CACD3CF00B82EF4 /* AutoClick.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; path = AutoClick.app; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +110,6 @@
 		0E4B36C91ABBB0760052CD75 /* AutoClick */ = {
 			isa = PBXGroup;
 			children = (
-				1021E7921CACD3B800B82EF4 /* App */,
 				0E17A5001ABEC2340026A62C /* DDHotKey */,
 				0E4B36CC1ABBB0760052CD75 /* AppDelegate.h */,
 				0E4B36CD1ABBB0760052CD75 /* AppDelegate.m */,
@@ -136,14 +133,6 @@
 				0E4B36CF1ABBB0760052CD75 /* main.m */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		1021E7921CACD3B800B82EF4 /* App */ = {
-			isa = PBXGroup;
-			children = (
-				1021E7931CACD3CF00B82EF4 /* AutoClick.app */,
-			);
-			name = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -227,7 +216,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1021E7941CACD3CF00B82EF4 /* AutoClick.app in Resources */,
 				0E4B36D21ABBB0760052CD75 /* Images.xcassets in Resources */,
 				0E1ECC6B1ACB997E00884AFD /* MainMenu.xib in Resources */,
 			);
