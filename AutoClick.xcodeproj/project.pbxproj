@@ -53,6 +53,7 @@
 		0E4B37161ABBDA900052CD75 /* ClickPositions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClickPositions.h; sourceTree = "<group>"; };
 		0E4B37171ABBDA900052CD75 /* ClickPositions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClickPositions.m; sourceTree = "<group>"; };
 		0E9E964A1ABEBDEE00A5C0B2 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = System/Library/Frameworks/Carbon.framework; sourceTree = SDKROOT; };
+		1021E7951CACE4C600B82EF4 /* AutoClick 1.0.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AutoClick 1.0.dmg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +94,7 @@
 		0E4B36BE1ABBB0760052CD75 = {
 			isa = PBXGroup;
 			children = (
+				1021E7951CACE4C600B82EF4 /* AutoClick 1.0.dmg */,
 				0E4B36C91ABBB0760052CD75 /* AutoClick */,
 				0E4B36C81ABBB0760052CD75 /* Products */,
 			);
